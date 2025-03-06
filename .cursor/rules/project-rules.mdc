@@ -1,1 +1,6 @@
- 
+---
+description: Overview of project
+globs: 
+---
+ # Your rule content
+We are making a todo list web application. We want to create a full stack application that a user will sign into and that saves a users data using firebase. For the frontend we are using nextJS, React, Tailwind, and Typescript for coding. We will be using storybook for desigining our UI. We will not copy, but we will use [design-inspiration.png](mdc:.cursor/rules/design-inspiration.png) as our inspiration for designing the UI. When writing code you will always follow the rules laid out in [coding-rules.mdc](mdc:.cursor/rules/coding-rules.mdc)
